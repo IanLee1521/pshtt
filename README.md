@@ -1,5 +1,7 @@
 ## Pushing HTTPS :lock:
 
+[![Build Status](https://travis-ci.org/dhs-ncats/pshtt.svg?branch=master)](https://travis-ci.org/dhs-ncats/pshtt)
+
 [![Coverage Status](https://coveralls.io/repos/github/dhs-ncats/pshtt/badge.svg)](https://coveralls.io/github/dhs-ncats/pshtt)
 
 `pshtt` (_"pushed"_) is a tool to scan domains for HTTPS best practices. It saves its results to a CSV (or JSON).
